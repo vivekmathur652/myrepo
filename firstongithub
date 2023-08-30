@@ -1,2 +1,8 @@
-this is my file on github
-this line will be added 
+git init
+git add
+git commit
+git log
+git status
+git remote -v
+git pull origin main
+
